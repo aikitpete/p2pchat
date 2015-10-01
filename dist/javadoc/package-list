@@ -1,0 +1,13 @@
+p2pchat
+p2pchat.connection
+p2pchat.connection.parser
+p2pchat.controller
+p2pchat.controller.listeners
+p2pchat.model
+p2pchat.model.chat
+p2pchat.server
+p2pchat.view
+p2pchat.view.commands
+p2pchat.view.custom
+p2pchat.view.views
+utils
